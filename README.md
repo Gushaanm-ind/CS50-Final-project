@@ -1,7 +1,5 @@
 # Python Math Lab
 
-#### Video Demo: (https://youtu.be/FrVWqpq1tdA?si=4ep-A216qQ-hkdUo)
-
 #### Description:
 
 Python Math Lab is a terminal-based mathematical tool written in Python. It combines a calculator with a graphing calculator, allowing users to perform common mathematical calculations and visualize mathematical functions directly in the terminal.
